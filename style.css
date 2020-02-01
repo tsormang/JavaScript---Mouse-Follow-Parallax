@@ -1,0 +1,57 @@
+﻿
+#container {
+    margin:100px;
+    height: 312px;
+    width: 302px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slide {
+    display: block;
+    position: relative;
+    height: 312px;
+    width: 302px;
+}
+
+.bkgd {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    height: 312px;
+    width: 302px;
+}
+
+.one {
+    left: 596px;
+    top: 0px;
+}
+
+.two {
+    left: 292px;
+    top: 0px;
+    height: 362px;
+    width: 362px;
+}
+
+.three {
+    left: -8px;
+    top: 0px;
+}
+
+.four {
+    left: -312px;
+    top: 0px;
+}
+
+.five {
+    left: -612px;
+    top: 0px;
+}
+
+
+img {
+    height: 312px;
+    width: 302px;
+}
